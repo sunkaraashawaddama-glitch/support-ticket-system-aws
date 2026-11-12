@@ -1,4 +1,4 @@
-# Support Ticket System - 【entity-AWS¦canonical_name=AWS】 Serverless
+=# Support Ticket System - AWS Serverless
 
 ## Live URLs
 - Frontend (CloudFront): https://d2u7w9mwwy7ay9.cloudfront.net
